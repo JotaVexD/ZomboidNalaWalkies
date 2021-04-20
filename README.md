@@ -1,4 +1,5 @@
-#Nala Walkie talkies
+# Nala Walkie talkies
+
 Private workspace, contain modified class files for export.
 
 Repository for save the progress along the time.
@@ -9,7 +10,7 @@ For better use, install clean project of Zomboid Plugin Loader.
 https://github.com/pzstorm/zomboid-plugin-loader
 
 ----------------------------------------
-##What is the mod
+## What is the mod
 Working walkie-talkies and radio for talk and listen with other people connected on same frequency.
 
 The mod need to be installed manually, change .class files of the original game.
@@ -18,7 +19,7 @@ Installing this mod can break your game every update, be in mind.
 
 ----------------------------------------
 
-###Installation
+### Installation
 
 ----------------------------------------
 
