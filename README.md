@@ -1,18 +1,27 @@
-# Zomboid Plugin Loader
+#Nala Walkie talkies
+Private workspace, contain modified class files for export.
 
-Zomboid Plugin Loader is a Project Zomboid modding tool that allows users to load Java plugins that can alter game code at runtime.
+Repository for save the progress along the time.
 
-## For developers
+For better use, install clean project of Zomboid Plugin Loader.
 
-- Go to project structure and set project SDK to version 1.8.
 
-- Create `local.properties` file in project root directory and declare the following properties:
+https://github.com/pzstorm/zomboid-plugin-loader
 
-	```properties
-	gameDir=<absolute_path_to_game_dir>
-	jdkDir=<absolute_path_to_jdk_8_dir>
-	```
+----------------------------------------
+##What is the mod
+Working walkie-talkies and radio for talk and listen with other people connected on same frequency.
 
-- Run `generateLaunchRunConfigs` to generate run configurations.
+The mod need to be installed manually, change .class files of the original game.
+Do on your own risk, this mod was made for playing with my friend and not supposed to be release in public.
+Installing this mod can break your game every update, be in mind.
 
-- Run `shadowJar` to generate the **agent** jar used by the loader.
+----------------------------------------
+
+###Installation
+
+----------------------------------------
+
+**_TODO: Finish the mod_**
+
+**_TODO: Publish in the forums and git how to install._**
